@@ -1,8 +1,8 @@
 # Steven Universe Calculator
 ## By Andrea McKenzie
-Email:[mckenzie.andrea.m@gmail.com](mailto:mckenzie.andrea.m@gmail.com)
-LinkedIn:[Andrea McKenzie](https://www.linkedin.com/in/andrea-mckenzie)
-Skype: andrea-michelle-mckenzie
+  Email:[mckenzie.andrea.m@gmail.com](mailto:mckenzie.andrea.m@gmail.com)
+  LinkedIn:[Andrea McKenzie](https://www.linkedin.com/in/andrea-mckenzie)
+  Skype: andrea-michelle-mckenzie
 
 ---
 **STEVEN UNIVERSE** and all related characters and elements are trademarks of and © Cartoon Network
